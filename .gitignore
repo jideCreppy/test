@@ -1,0 +1,13 @@
+#Do not track excel files
+*.xls
+*.xlsx
+
+#Do not tract tempfiles
+tempfile.txt
+
+#Do not track zip files
+*.zip
+*.tar
+*.gz
+
+#Do not track
